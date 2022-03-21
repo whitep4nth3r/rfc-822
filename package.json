@@ -1,0 +1,11 @@
+{
+  "name": "rfc-822",
+  "version": "1.0.0",
+  "description": "Build an RFC-822 date-time with JavaScript for RSS feeds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "whitep4nth3r",
+  "license": "MIT"
+}
